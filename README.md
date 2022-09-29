@@ -1,8 +1,13 @@
 # Yassine Mejri
 **`Computer Science Engineer / Software Developer`**
+
+I have a big passion for coding and software development. I enjoy solving problems with code. I mainly engineer full stack solutions.
+My go to language is Java. For the web I tend to use Spring framework and Angular.
+
 Actively looking to collaborate on new interesting projects.
+
 Currently looking for an internship of 4 to 6 months duration starting January 2023.
-- 📫 How to reach me? email: yassinemejri5@gmail.com (or) yassine.mejri@ensi-uma.tn
+- 📫 How to reach me? email: y.mejri@outlook.com (or) yassine.mejri@ensi-uma.tn
 
 ### 🧰 Languages and Tools
 

@@ -6,7 +6,6 @@ My go to language is Java. For the web I tend to use Spring framework and Angula
 
 Actively looking to collaborate on new interesting projects.
 
-Currently looking for an internship of 4 to 6 months duration starting January 2023.
 - 📫 How to reach me? email: y.mejri@outlook.com (or) yassine.mejri@ensi-uma.tn
 
 ### 🧰 Languages and Tools
